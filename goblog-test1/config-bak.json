@@ -1,0 +1,13 @@
+{
+	"baseurl": "http://localhost:1313",
+	"languageCode": "en-us",
+	"title": "very blog.",
+	"params":{
+		"sidebartitle": "very blog.",
+		"sidebartagline": "so Dogecoin. such trading advice. wow.",
+		"menu.main":{
+			"name": "blog.",
+			"url": "/posts"
+		}
+	}
+}

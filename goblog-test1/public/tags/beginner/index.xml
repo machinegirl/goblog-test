@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beginner on very blog.</title>
+    <link>http://localhost:1313/tags/beginner/</link>
+    <description>Recent content in Beginner on very blog.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Wed, 07 Jan 2015 17:29:02 EST</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 07 Jan 2015 17:29:02 EST</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;some test content here
+markdown markdown lormen nipples&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

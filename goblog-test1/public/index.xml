@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>very blog.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on very blog.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Fri, 09 Jan 2015 16:48:02 EST</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Evaluation for 2015/01/09</title>
+      <link>http://localhost:1313/post2/</link>
+      <pubDate>Fri, 09 Jan 2015 16:48:02 EST</pubDate>
+      
+      <guid>http://localhost:1313/post2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin molestie metus justo, ut suscipit nunc luctus id. Fusce sed orci nec velit suscipit pharetra. Nam sit amet mi elit. Proin luctus leo pretium mi fermentum vulputate. Aliquam lobortis justo metus, eget euismod eros tincidunt vitae. Vivamus imperdiet porttitor lectus sollicitudin interdum. Fusce mollis nibh sed quam pulvinar vestibulum. Aliquam convallis diam vel arcu condimentum venenatis. Aliquam nec lacus pellentesque, laoreet erat et, pulvinar dui. Sed consequat mattis nisl, non viverra leo tincidunt tempor. In viverra orci id ultricies vestibulum. Cras a faucibus odio. Proin venenatis leo fermentum turpis interdum venenatis.&lt;/p&gt;
+
+&lt;p&gt;Maecenas iaculis nulla vitae magna commodo, eu sodales odio pharetra. Proin rhoncus sit amet sem a porttitor. Mauris elementum nunc ut ante egestas finibus. Suspendisse vitae lacus fermentum, tempor justo vel, molestie ipsum. Aenean euismod tellus ac scelerisque pulvinar. Morbi vel libero lectus. Proin blandit ante lectus, tincidunt maximus mi malesuada at.&lt;/p&gt;
+
+&lt;p&gt;In hac habitasse platea dictumst. Curabitur ut dolor sit amet urna luctus semper sed sit amet erat. Sed ut consequat nulla. Ut at tincidunt lectus. Vestibulum ut luctus elit. Mauris lectus turpis, commodo at mollis a, mollis eget mauris. Ut aliquet ipsum a elit facilisis, vitae placerat enim gravida. Ut a tincidunt urna, dignissim fermentum elit. Sed ac varius erat. Nullam porta eleifend enim, ut suscipit elit maximus sed. Nullam elementum mattis erat, vitae imperdiet enim. In ultricies fringilla nulla vel convallis. Sed porttitor posuere nibh vel porttitor. Nunc convallis dui vitae scelerisque fringilla. Maecenas magna turpis, efficitur nec nisl ut, consectetur fermentum sem.&lt;/p&gt;
+
+&lt;p&gt;Phasellus ut imperdiet nibh, at laoreet mauris. Integer sit amet mauris odio. Nam sem dolor, convallis sed ornare nec, tempor et risus. Aliquam et lorem ac eros finibus blandit. In maximus a tortor quis maximus. Sed vel orci ut ante ullamcorper ullamcorper. Nunc semper, tellus et fringilla volutpat, justo ipsum commodo eros, non ornare quam ligula sed metus.&lt;/p&gt;
+
+&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut ligula quam, congue eget hendrerit vel, ultrices in tortor. Nulla facilisi. Vivamus et erat ultrices, tristique tellus quis, porta lorem. Cras feugiat finibus justo, nec porta metus finibus quis. Nunc venenatis, felis quis luctus ultrices, dolor mi convallis justo, at sodales mi est quis urna. Quisque ut dapibus sem.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Evaluation for 2015/01/08 and a short blog post</title>
+      <link>http://localhost:1313/post3/</link>
+      <pubDate>Thu, 08 Jan 2015 16:48:02 EST</pubDate>
+      
+      <guid>http://localhost:1313/post3/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin molestie metus justo, ut suscipit nunc luctus id. Fusce sed orci nec velit suscipit pharetra. Nam sit amet mi elit. Proin luctus leo pretium mi fermentum vulputate. Aliquam lobortis justo metus, eget euismod eros tincidunt vitae. Vivamus imperdiet porttitor lectus sollicitudin interdum. Fusce mollis nibh sed quam pulvinar vestibulum. Aliquam convallis diam vel arcu condimentum venenatis. Aliquam nec lacus pellentesque, laoreet erat et, pulvinar dui. Sed consequat mattis nisl, non viverra leo tincidunt tempor. In viverra orci id ultricies vestibulum. Cras a faucibus odio. Proin venenatis leo fermentum turpis interdum venenatis.&lt;/p&gt;
+
+&lt;p&gt;Maecenas iaculis nulla vitae magna commodo, eu sodales odio pharetra. Proin rhoncus sit amet sem a porttitor. Mauris elementum nunc ut ante egestas finibus. Suspendisse vitae lacus fermentum, tempor justo vel, molestie ipsum. Aenean euismod tellus ac scelerisque pulvinar. Morbi vel libero lectus. Proin blandit ante lectus, tincidunt maximus mi malesuada at.&lt;/p&gt;
+
+&lt;p&gt;In hac habitasse platea dictumst. Curabitur ut dolor sit amet urna luctus semper sed sit amet erat. Sed ut consequat nulla. Ut at tincidunt lectus. Vestibulum ut luctus elit. Mauris lectus turpis, commodo at mollis a, mollis eget mauris. Ut aliquet ipsum a elit facilisis, vitae placerat enim gravida. Ut a tincidunt urna, dignissim fermentum elit. Sed ac varius erat. Nullam porta eleifend enim, ut suscipit elit maximus sed. Nullam elementum mattis erat, vitae imperdiet enim. In ultricies fringilla nulla vel convallis. Sed porttitor posuere nibh vel porttitor. Nunc convallis dui vitae scelerisque fringilla. Maecenas magna turpis, efficitur nec nisl ut, consectetur fermentum sem.&lt;/p&gt;
+
+&lt;p&gt;Phasellus ut imperdiet nibh, at laoreet mauris. Integer sit amet mauris odio. Nam sem dolor, convallis sed ornare nec, tempor et risus. Aliquam et lorem ac eros finibus blandit. In maximus a tortor quis maximus. Sed vel orci ut ante ullamcorper ullamcorper. Nunc semper, tellus et fringilla volutpat, justo ipsum commodo eros, non ornare quam ligula sed metus.&lt;/p&gt;
+
+&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut ligula quam, congue eget hendrerit vel, ultrices in tortor. Nulla facilisi. Vivamus et erat ultrices, tristique tellus quis, porta lorem. Cras feugiat finibus justo, nec porta metus finibus quis. Nunc venenatis, felis quis luctus ultrices, dolor mi convallis justo, at sodales mi est quis urna. Quisque ut dapibus sem.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trading Basics</title>
+      <link>http://localhost:1313/post1/</link>
+      <pubDate>Wed, 07 Jan 2015 17:40:02 EST</pubDate>
+      
+      <guid>http://localhost:1313/post1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus fringilla nunc at odio sollicitudin, ut aliquet turpis auctor. Ut interdum, libero at interdum accumsan, mauris magna aliquet lacus, gravida ultricies ex tellus vel elit. Morbi molestie luctus erat, sit amet mattis enim rutrum non. Aliquam iaculis mattis velit in congue. Aliquam pharetra lobortis turpis, a scelerisque sem bibendum vitae. Etiam sagittis, erat ut rutrum ullamcorper, turpis ipsum rutrum quam, eu tincidunt eros justo sed libero. Pellentesque tincidunt pretium nisi, non ornare libero elementum quis. Etiam non interdum odio. Quisque egestas pellentesque metus, porttitor imperdiet nisi interdum a. Donec in tristique neque. Donec nec dui eu dui feugiat semper ultricies ac nulla.&lt;/p&gt;
+
+&lt;p&gt;Mauris tempus a ipsum ut egestas. Vestibulum fermentum, sapien nec mollis venenatis, arcu massa faucibus metus, vel consequat nisi est a elit. Phasellus nec consectetur arcu. Maecenas sed pulvinar orci. Aliquam sit amet nulla sed neque tempor dignissim non eget turpis. Maecenas volutpat, dui et facilisis laoreet, neque ipsum maximus sem, sit amet rhoncus nisi leo vel purus. Donec vitae est risus. Suspendisse ullamcorper enim eu nibh suscipit, cursus tristique tellus volutpat.&lt;/p&gt;
+
+&lt;p&gt;Donec vitae metus mattis, volutpat lacus nec, dapibus justo. Phasellus ut nisl rutrum turpis tempor efficitur ut id eros. Phasellus auctor, nisi nec sollicitudin blandit, ante risus dapibus augue, sit amet porta enim purus quis mi. Nunc sit amet neque sed enim scelerisque condimentum. Phasellus tempor libero sapien, vitae dapibus nulla iaculis viverra. Pellentesque tempus sed lectus sit amet hendrerit. Pellentesque at leo diam. Nullam a velit sed libero tincidunt vulputate. Nullam ac mollis lacus. Nam a eros nec magna ullamcorper tincidunt non sit amet turpis. Integer rutrum interdum mi consequat sodales. In scelerisque elit rhoncus nisl semper, a facilisis tortor imperdiet. Sed luctus convallis placerat. Donec nunc odio, gravida vitae ex in, posuere feugiat risus. Nullam mollis erat nibh, a suscipit lacus porta quis. Suspendisse erat risus, auctor quis pulvinar sit amet, gravida vitae erat.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse et aliquam lectus. Maecenas molestie iaculis bibendum. Ut lorem lorem, accumsan sit amet lacus eu, venenatis pulvinar eros. Aliquam eu lacus aliquet, bibendum magna et, fermentum nisl. Nulla sit amet dapibus ante. Proin convallis ut libero ac laoreet. Nullam ultricies tempus urna, eu semper lectus mollis quis. In sit amet venenatis nisi, nec egestas sapien. Integer id enim mattis, rhoncus tortor eget, suscipit neque. Integer id pulvinar eros. Pellentesque iaculis, diam imperdiet efficitur rutrum, lorem lacus consectetur eros, eu sodales neque lorem vel tellus. Ut eros libero, elementum vel molestie at, pulvinar at sem. Donec vulputate pharetra fermentum. Maecenas at porttitor purus.&lt;/p&gt;
+
+&lt;p&gt;Integer eu libero orci. In facilisis malesuada laoreet. Suspendisse ac neque convallis, feugiat ex sed, maximus sapien. Pellentesque id fermentum felis. Nulla et arcu at purus semper accumsan ac et leo. Suspendisse pulvinar justo velit, eu molestie dolor placerat id. Vestibulum mattis purus in nunc gravida imperdiet. Donec a semper tortor. Duis aliquam in ipsum eu accumsan. In bibendum, diam tempor consectetur efficitur, arcu nunc viverra urna, quis luctus diam risus ac leo. Suspendisse consequat magna at urna ornare, vitae malesuada nunc vulputate. Mauris id dictum lacus. Nam non tortor libero. Etiam sit amet imperdiet elit. Nunc nunc nisl, facilisis mattis faucibus vitae, pellentesque vitae ex.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 07 Jan 2015 17:29:02 EST</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;some test content here
+markdown markdown lormen nipples&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

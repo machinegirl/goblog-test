@@ -1,0 +1,22 @@
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+title = "very blog."
+canonifyurls = true
+
+[params]
+    sidebartitle = "very blog."
+    sidebartagline = "so Dogecoin. such trading advice. wow."
+    categoriescss = "/css/categories.css"
+    
+[[menu.main]]
+	name = "Doge Hustle"
+	url = "http://www.dogehustle.com"	
+	
+[[menu.social]]
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/dogehustle"
+    identifier = "twitter"
+    
+[[menu.footer]]
+    name = "this is a dead link"
+    url = ""
